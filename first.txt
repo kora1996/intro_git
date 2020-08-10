@@ -7,3 +7,4 @@ gitの練習をしていきます
 
 
 test
+test2
